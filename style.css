@@ -19,7 +19,6 @@ body {
     background-color: #080808;
     border-radius: 5px;
     padding: 3em 2em;
-    /* box-shadow: 1px 1px 5px rgba(255, 255, 255, .15), 0 15px 90px 30px rgba(0, 0, 0, .25); */
     position: relative;
     display: flex;
     justify-content: space-evenly;
@@ -49,7 +48,6 @@ body {
     text-transform: uppercase;
     font-size: .7em;
     letter-spacing: 1.5px;
-    /* margin-top: 10px; */
 }
 
 .colon {
